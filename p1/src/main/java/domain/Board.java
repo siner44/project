@@ -2,7 +2,7 @@ package domain;
 
 import java.sql.Date;
 
-public class board {
+public class Board {
 	 /* 게시판 번호 */
     private int bno;
     
